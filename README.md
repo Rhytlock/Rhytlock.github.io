@@ -2,7 +2,7 @@
 
 ### About Me
 
-  I'm a second year student enrolled in Interactive Arts and Science at Brock University
+  I'm a second year student enrolled in Interactive Arts and Science at Brock University.
 
 
 
