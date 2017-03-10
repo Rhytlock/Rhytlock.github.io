@@ -16,7 +16,3 @@
 ### Blog Post
 
 [Continue Reading](blog)
-
-~~~~~~~
-dggsagdfhdhdagafhdshdhrt
-~~~~~~~~
