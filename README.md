@@ -4,7 +4,7 @@
 
 My name is Jonathan Brenders. I am a second year student enrolled in Interactive Arts and Science at Brock University. 
 
-[](images/File_000.jpeg)
+![](images/File_000.jpeg)
 
 ### Blog Post
 
