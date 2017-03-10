@@ -2,17 +2,10 @@
 
 ### About Me
 
-  I'm a second year student enrolled in Interactive Arts and Science at Brock University.
+My name is Jonathan Brenders. I am a second year student enrolled in Interactive Arts and Science at Brock University. 
 
 
-
-
-
-
-
-
-![](images/File_000.jpeg)
 
 ### Blog Post
 
-[Continue Reading](blog.md)
+[An Examination of the Connection Between Digital Humanities and the Field of English](blog.md)
