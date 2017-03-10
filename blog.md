@@ -19,7 +19,7 @@
    Kirschenbaum's thesis is that “...digital humanities has accumulated a robust professional apparatus that is probably more rooted in English than any other departmental home” (Kirschenbaum). He did not present a concrete argument, but instead left room for interpretation. He uses words such as 'probably' and 'generally' in his statements. Which suggests that he is leaving room for future scholars to tackle similar questions. As a result, this article comes off as collaborative, adding to the field of Digital Humanities. To contrast, scientific papers often need to avoid such language, presenting themselves as fact, with lieelt room left for interpretation. Kirschenbaum's essay is written in a manner similar to what one might find in other writings from an English Department, which is no surprise, as he is an Associate Professor of English at the University of Maryland. His paper is widely regarded as an important work for the field of Digital Humanities, so he himself represents another connection between the fields.
 
 
-Works Cited
+###Works Cited
 
 Kirshenbaum, M. (2012). What Is Digital Humanities and What’s It Doing in English Departments? Retrieved March 10, 2017, from http://dhdebates.gc.cuny.edu/debates/text/38
 
