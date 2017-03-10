@@ -1,4 +1,4 @@
-An Examination of the Connection Between Digital Humanities and the Field of English
+## An Examination of the Connection Between Digital Humanities and the Field of English
 
    The article, *What Is Digital Humanities and What’s It Doing in English Departments?*, by Matthew Kirschenbaum revolves around the idea of discovering the field of Digital Humanities, how the field can be explored and the connections it has with English departments. He identifies that there are already several essays that cover this broad topic, and in his introduction, writes, “It’s tempting to say that whoever asks the question has not gone looking very hard for an answer” (Kirschenbaum). Arguments made by Kirshenbaum also tie Digital Humanities to English, more than any other department. In support of this work, it wil be broken down into its core arguments.
 
