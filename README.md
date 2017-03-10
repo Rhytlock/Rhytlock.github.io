@@ -15,4 +15,4 @@
 
 ### Blog Post
 
-[Continue Reading](blog)
+[Continue Reading](blog.md)
