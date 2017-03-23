@@ -13,4 +13,4 @@ My name is Jonathan Brenders. I am a second year student enrolled in Interactive
 
 ### Solo Presentation
 
-![Slide Deck](reveal.index.html)
+[Slide Deck](reveal.index.html)
