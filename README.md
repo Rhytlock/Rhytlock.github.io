@@ -12,7 +12,7 @@
 
 #### Punched Cards and Tabulating Machines
 
-#### View  Punched Cards and Tabulating Machines](reveal/index.html)
+View  Punched Cards and Tabulating Machines](reveal/index.html)
 
 ### Collaborative Project
 
