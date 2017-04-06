@@ -6,11 +6,14 @@ My name is Jonathan Brenders. I am a second year student enrolled in Interactive
 
 ![](images/File_000.jpeg)
 
-### Blog Post
+### Collaborative Project
 
-[An Examination of the Connection Between Digital Humanities and the Field of English](blog.md)
-
+[]()
 
 ### Research Presentation
 
 [Punched Cards and Tabulating Machines](reveal/index.html)
+
+### Academic Blog
+
+[An Examination of the Connection Between Digital Humanities and the Field of English](blog.md)
