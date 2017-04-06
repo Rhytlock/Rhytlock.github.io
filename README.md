@@ -1,10 +1,15 @@
 # IASC 2P02 | Jonathan Brenders
 
-### About Me
+### Bio
 
 My name is Jonathan Brenders. I am a second year student enrolled in Interactive Arts and Science at Brock University. 
 
 ![](images/File_000.jpeg)
+
+### Featured Project
+
+#### Title
+
 
 ### Collaborative Project
 
