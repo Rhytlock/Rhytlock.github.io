@@ -13,4 +13,4 @@ My name is Jonathan Brenders. I am a second year student enrolled in Interactive
 
 ### Research Presentation
 
-[Slide Deck](reveal/index.html)
+[Punched Cards and Tabulating Machines](reveal/index.html)
