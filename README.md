@@ -11,6 +11,6 @@ My name is Jonathan Brenders. I am a second year student enrolled in Interactive
 [An Examination of the Connection Between Digital Humanities and the Field of English](blog.md)
 
 
-### Solo Presentation
+### Research Presentation
 
 [Slide Deck](reveal/index.html)
