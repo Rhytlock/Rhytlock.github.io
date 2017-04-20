@@ -17,6 +17,10 @@ Punched cards and their corresponding tabulating machines represent an often for
 
 #### View  [Punched Cards and Tabulating Machines](reveal/index.html)
 
+### Collaborative Project
+
+[The Scalar Platform](Collab.md)
+
 ### Research Presentation
 
 [Punched Cards and Tabulating Machines](reveal/index.html)
