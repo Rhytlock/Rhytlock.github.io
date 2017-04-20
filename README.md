@@ -1,5 +1,7 @@
 # IASC 2P02 | Jonathan Brenders
 
+![](images/File_004.jpeg)
+
 ## Bio
 
    My name is Jonathan Brenders. I am in my second year in Interactive Arts and Science at Brock University. Before taking this program at Brock, I had no specific research interest in the digital humanities. Research is an aspect of the program that does not appeal to my interests; instead I prefer to be working on creative projects. Interactive Arts and Science provides several different streams of learning to students, one of which includes a specialization in digital scholarship. In the future, I intend to pursue a career in 3D design or digital animation. There have been many projects I have worked on outside of the course that better represent these interests. 
